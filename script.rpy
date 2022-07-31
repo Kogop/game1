@@ -80,7 +80,6 @@ if NotLoser:
 
         "So, anyway, we married now."
         hide eileen
-        show GGchar happy
 
         "Good Ending"
 else:
