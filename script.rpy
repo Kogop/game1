@@ -79,8 +79,9 @@ if NotLoser:
     label .marry:
 
         "So, anyway, we married now."
+        hide eileen
         show GGchar happy
-        show eileen happy
+
         "Good Ending"
 else:
     label .death:
